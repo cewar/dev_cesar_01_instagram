@@ -1,0 +1,6 @@
+{
+    "require": {
+        "raiym/instagram-php-scraper": "^0.8.35",
+        "mashape/unirest-php": "^3.0"
+    }
+}
